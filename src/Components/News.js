@@ -15,47 +15,7 @@ export class News extends Component {
         country: PropTypes.string,
         category: PropTypes.string
     }
-    // article = [
-    //     {
-    //         "source": {
-    //             "id": null,
-    //             "name": "New York Times"
-    //         },
-    //         "author": "Juliet Macur, Andrew Keh",
-    //         "title": "Kamila Valieva Can Continue to Compete, Arbitrators Rule - The New York Times",
-    //         "description": "The ruling, related to questions around use of a banned substance, means Kamila Valieva can take the ice Tuesday when the women’s short program begins.",
-    //         "url": "https://www.nytimes.com/2022/02/14/sports/olympics/kamila-valieva-ruling.html",
-    //         "urlToImage": "https://static01.nyt.com/images/2022/02/14/world/14olympics-briefing-skating-kamila-sub/merlin_201984831_31c944fd-d6cf-4ceb-95f5-989da0159f78-facebookJumbo.jpg",
-    //         "publishedAt": "2022-02-14T08:12:07Z",
-    //         "content": "Matthieu Reeb, the director general of the court, announced the ruling at a news conference in Beijing on Monday, less than 30 hours before the womens event was to begin. He lamented the delay in pro… [+1463 chars]"
-    //     },
-    //     {
-    //         "source": {
-    //             "id": null,
-    //             "name": "YouTube"
-    //         },
-    //         "author": null,
-    //         "title": "Horizon Forbidden West Review - IGN",
-    //         "description": "Horizon Forbidden West reviewed on PlayStation 5 by Simon Cardy.A triumphant combination of enthralling combat, top-tier creature and character design, and a...",
-    //         "url": "https://www.youtube.com/watch?v=veLQ2cdyBBo",
-    //         "urlToImage": "https://i.ytimg.com/vi/veLQ2cdyBBo/hqdefault.jpg",
-    //         "publishedAt": "2022-02-14T08:00:31Z",
-    //         "content": null
-    //     },
-    //     {
-    //         "source": {
-    //             "id": "cnn",
-    //             "name": "CNN"
-    //         },
-    //         "author": "Xiaofei Xu and Lauren Kent, CNN",
-    //         "title": "'Freedom Convoy' protesters enter Paris and block traffic before they're dispersed with tear gas - CNN",
-    //         "description": "Protesters in a so-called \"Freedom Convoy\" made it past police checkpoints in central Paris on Saturday, with demonstrators completely blocking traffic in the French capital before they were met with tear gas fired by officers.",
-    //         "url": "https://www.cnn.com/2022/02/12/europe/france-freedom-convoy-truckers-protest-intl/index.html",
-    //         "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220212112857-01-freedom-convoy-france-0212-super-tease.jpg",
-    //         "publishedAt": "2022-02-14T07:31:00Z",
-    //         "content": null
-    //     }
-    // ]
+    
     article = [
         {
             "source": {
